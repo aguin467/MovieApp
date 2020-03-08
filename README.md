@@ -9,13 +9,13 @@
 [npm-url]: https://npmjs.com/
 [nodejs]: https://img.shields.io/badge/nodejs-13.10.1-brightgreen
 [nodejs-url]: https://nodejs.org/en/
----------------------------------------------------------------------------------
+
 ## Available Scripts
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----------------------------------------------------------------------------------
+
 ## Backend
 
 Install the build files
@@ -25,7 +25,7 @@ Run the Express backend server
 
 ### `npm start`
 
----------------------------------------------------------------------------------
+
 
 ## Client
 
