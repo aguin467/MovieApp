@@ -1,0 +1,63 @@
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.207/distr/fira_code.css);
+code { font-family: 'Fira Code', monospace; }
+
+@supports (font-variation-settings: normal) {
+  code { font-family: 'Fira Code VF', monospace; }
+}
+
+$primary: rgb(0, 0, 0);
+$secondary: rgb(0, 255, 255);
+
+.App {
+  text-align: center;
+}
+
+.logo {
+  image-resolution: 1000dpi;
+  position:absolute;
+  left:10px;
+  top:10px;
+  margin: 0px 15px 15px 0px;
+}
+
+html {
+  background: url('./bg.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  image-resolution: 1000dpi;
+}
+
+nav {
+  font-family: "Fira Code", monospace;
+  font-size: medium;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: #494f52;
+  color: white; 
+
+  li {
+    padding: 1.5em;
+    border-radius: 25px;
+    flex-direction: column;
+
+    &:hover {
+      background: darken($secondary, 10%);
+    }
+  }
+}
+
+.nav-links {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+* {
+  list-style-type: none;
+  
+}
+
