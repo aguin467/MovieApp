@@ -1,4 +1,4 @@
-![React Logo](https://raw.githubusercontent.com/aguin467/ReactMovieApp/master/react.png) 
+![React Logo](https://raw.githubusercontent.com/aguin467/MovieApp/master/react.png) 
 
 [![React][React]][React-url] [![Build Status](https://travis-ci.org/aguin467/MovieApp.svg?branch=master)](https://travis-ci.org/aguin467/MovieApp) ![License](https://img.shields.io/github/license/aguin467/ReactMovieApp) ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg) [![npm][npm]][npm-url] [![nodejs][nodejs]][nodejs-url] 
 
