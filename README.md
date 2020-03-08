@@ -21,6 +21,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Install the build files
 ### `npm i`
 
+Add your api data 
+### `const films = [ { Your_API_DATA }];`
+
 Run the Express backend server
 
 ### `npm start`
