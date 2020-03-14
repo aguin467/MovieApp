@@ -7,7 +7,7 @@
 
 [npm]: https://img.shields.io/badge/npm-6.14.2-red
 [npm-url]: https://npmjs.com/
-[nodejs]: https://img.shields.io/badge/nodejs-13.10.1-brightgreen
+[nodejs]: https://img.shields.io/badge/nodejs-13.11.0-brightgreen
 [nodejs-url]: https://nodejs.org/en/
 
 ## Available Scripts
