@@ -10,7 +10,7 @@
     "dotenv": "^8.2.0",
     "esm": "^3.2.25",
     "express": "^4.17.1",
-    "http-proxy-middleware": "^1.0.1",
+    "http-proxy-middleware": "^1.0.3",
     "node-fetch": "^2.6.0",
     "node-sass": "^4.13.1",
     "react": "^16.13.0",
